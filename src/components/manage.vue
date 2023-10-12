@@ -1,29 +1,6 @@
-<!DOCTYPE html>
+<template>
+    <!DOCTYPE html>
 <html>
-
-<head>
-  <!-- Basic -->
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <!-- Mobile Metas -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <!-- Site Metas -->
-  <meta name="keywords" content="" />
-  <meta name="description" content="" />
-  <meta name="author" content="" />
-
-  <title>Spering</title>
-
-  <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-
-  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
-  <!-- Custom styles for this template -->
-  <link href="css/style.css" rel="stylesheet" />
-  <!-- responsive style -->
-  <link href="css/responsive.css" rel="stylesheet" />
-</head>
-
 <body>
   <div class="hero_area">
     <!-- header section strats -->
@@ -31,12 +8,12 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
           <a class="navbar-brand" href="index.html">
-            <img src="images/logo.png" alt="" />
+            <img src="./managedesign/images/logo.png" alt="" />
             <span>
               Spering
             </span>
           </a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
 
@@ -129,7 +106,7 @@
                 </div>
                 <div class="offset-md-1 col-md-4 img-container">
                   <div class="img-box">
-                    <img src="images/slider-img.png" alt="">
+                    <img src="./managedesign/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -161,7 +138,7 @@
                 </div>
                 <div class="offset-md-1 col-md-4 img-container">
                   <div class="img-box">
-                    <img src="images/slider-img.png" alt="">
+                    <img src="./managedesign/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -193,7 +170,7 @@
                 </div>
                 <div class="offset-md-1 col-md-4 img-container">
                   <div class="img-box">
-                    <img src="images/slider-img.png" alt="">
+                    <img src="./managedesign/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -215,7 +192,7 @@
       <div class="row">
         <div class="col-md-5">
           <div class="img-box">
-            <img src="images/experience-img.jpg" alt="">
+            <img src="./managedesign/images/experience-img.jpg" alt="">
           </div>
         </div>
         <div class="col-md-7">
@@ -257,7 +234,7 @@
       <div class="category_container">
         <div class="box">
           <div class="img-box">
-            <img src="images/c1.png" alt="">
+            <img src="./managedesign/images/c1.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -267,7 +244,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/c2.png" alt="">
+            <img src="./managedesign/images/c2.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -277,7 +254,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/c3.png" alt="">
+            <img src="./managedesign/images/c3.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -287,7 +264,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/c4.png" alt="">
+            <img src="./managedesign/images/c4.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -297,7 +274,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/c5.png" alt="">
+            <img src="./managedesign/images/c5.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -307,7 +284,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/c6.png" alt="">
+            <img src="./managedesign/images/c6.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -329,7 +306,7 @@
       <div class="row">
         <div class="col-md-10 col-lg-9 mx-auto">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="./managedesign/images/about-img.jpg" alt="">
           </div>
         </div>
       </div>
@@ -365,7 +342,7 @@
               <div class="tab_container">
                 <div class="t-link-box" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   <div class="img-box">
-                    <img src="images/f1.png" alt="">
+                    <img src="./managedesign/images/f1.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -378,7 +355,7 @@
                 </div>
                 <div class="t-link-box collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   <div class="img-box">
-                    <img src="images/f2.png" alt="">
+                    <img src="./managedesign/images/f2.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -391,7 +368,7 @@
                 </div>
                 <div class="t-link-box collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   <div class="img-box">
-                    <img src="images/f3.png" alt="">
+                    <img src="./managedesign/images/f3.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -404,7 +381,7 @@
                 </div>
                 <div class="t-link-box collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                   <div class="img-box">
-                    <img src="images/f4.png" alt="">
+                    <img src="./managedesign/images/f4.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -422,22 +399,22 @@
           <div class="col-md-6">
             <div class="collapse show" id="collapseOne" aria-labelledby="headingOne" data-parent="#accordion">
               <div class="img-box">
-                <img src="images/freelance-img.jpg" alt="">
+                <img src="./managedesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
             <div class="collapse" id="collapseTwo" aria-labelledby="headingTwo" data-parent="#accordion">
               <div class="img-box">
-                <img src="images/freelance-img.jpg" alt="">
+                <img src="./managedesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
             <div class="collapse" id="collapseThree" aria-labelledby="headingThree" data-parent="#accordion">
               <div class="img-box">
-                <img src="images/freelance-img.jpg" alt="">
+                <img src="./managedesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
             <div class="collapse" id="collapseFour" aria-labelledby="headingfour" data-parent="#accordion">
               <div class="img-box">
-                <img src="images/freelance-img.jpg" alt="">
+                <img src="./managedesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
           </div>
@@ -469,7 +446,7 @@
                   <p>
                     passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s
                   </p>
-                  <img src="images/quote.png" alt="">
+                  <img src="./managedesign/images/quote.png" alt="">
                 </div>
               </div>
               <div class="carousel-item">
@@ -480,7 +457,7 @@
                   <p>
                     passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s
                   </p>
-                  <img src="images/quote.png" alt="">
+                  <img src="./managedesign/images/quote.png" alt="">
                 </div>
               </div>
               <div class="carousel-item">
@@ -491,7 +468,7 @@
                   <p>
                     passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If youThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in s
                   </p>
-                  <img src="images/quote.png" alt="">
+                  <img src="./managedesign/images/quote.png" alt="">
                 </div>
               </div>
             </div>
@@ -518,26 +495,26 @@
       <div class="container">
         <div class="info_top">
           <div class="info_logo">
-            <img src="images/logo.png" alt="" />
+            <img src="./managedesign/images/logo.png" alt="" />
             <span>
               Spering
             </span>
           </div>
           <div class="social_box">
             <a href="#">
-              <img src="images/fb.png" alt="">
+              <img src="./managedesign/images/fb.png" alt="">
             </a>
             <a href="#">
-              <img src="images/twitter.png" alt="">
+              <img src="./managedesign/images/twitter.png" alt="">
             </a>
             <a href="#">
-              <img src="images/linkedin.png" alt="">
+              <img src="./managedesign/images/linkedin.png" alt="">
             </a>
             <a href="#">
-              <img src="images/instagram.png" alt="">
+              <img src="./managedesign/images/instagram.png" alt="">
             </a>
             <a href="#">
-              <img src="images/youtube.png" alt="">
+              <img src="./managedesign/images/youtube.png" alt="">
             </a>
           </div>
         </div>
@@ -605,7 +582,7 @@
                 <div class="col-md-3">
                   <a href="#" class="link-box">
                     <div class="img-box">
-                      <img src="images/location.png" alt="">
+                      <img src="./managedesign/images/location.png" alt="">
                     </div>
                     <div class="detail-box">
                       <h6>
@@ -617,7 +594,7 @@
                 <div class="col-md-4">
                   <a href="#" class="link-box">
                     <div class="img-box">
-                      <img src="images/mail.png" alt="">
+                      <img src="./managedesign/images/mail.png" alt="">
                     </div>
                     <div class="detail-box">
                       <h6>
@@ -629,7 +606,7 @@
                 <div class="col-md-5">
                   <a href="#" class="link-box">
                     <div class="img-box">
-                      <img src="images/call.png" alt="">
+                      <img src="./managedesign/images/call.png" alt="">
                     </div>
                     <div class="detail-box">
                       <h6>
@@ -660,13 +637,19 @@
   </footer>
   <!-- end  footer section -->
 
-
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/bootstrap.js"></script>
-  <script src="js/custom.js"></script>
-
-
 </body>
-</body>
+
 
 </html>
+</template>
+
+<script>
+export default {
+    name: 'manage',
+
+};
+</script>
+
+<style>
+
+</style>
